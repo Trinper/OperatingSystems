@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Cpp_code\repos\OSlabs\OperatingSystems\2. CreateThreads\Main\Main\Main.cpp(48,9): warning C4101: average_hThread: неиспользованная локальная переменная
+C:\Cpp_code\repos\OSlabs\OperatingSystems\2. CreateThreads\Main\Main\Main.cpp(45,9): warning C4101: extremum_hThread: неиспользованная локальная переменная
+C:\Cpp_code\repos\OSlabs\OperatingSystems\2. CreateThreads\Main\Main\Main.cpp(49,8): warning C4101: average_IDThread: неиспользованная локальная переменная
+C:\Cpp_code\repos\OSlabs\OperatingSystems\2. CreateThreads\Main\Main\Main.cpp(46,8): warning C4101: extremum_IDThread: неиспользованная локальная переменная
+  Main.vcxproj -> C:\Cpp_code\repos\OSlabs\OperatingSystems\2. CreateThreads\Main\x64\Debug\Main.exe
