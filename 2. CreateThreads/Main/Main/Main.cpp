@@ -16,9 +16,9 @@ CRITICAL_SECTION cs;
 DWORD WINAPI min_max(LPVOID) {
 	for (int i = 0; i < n; i++) {
 		Max = max(Max, arr[i]);
-		Sleep(10);
+		Sleep(7);
 		Min = min(Min, arr[i]);
-		Sleep(10);
+		Sleep(7);
 	}
 	EnterCriticalSection(&cs);
 	std::cout << "Min: " << Min << "\n";
@@ -31,7 +31,7 @@ DWORD WINAPI min_max(LPVOID) {
 DWORD WINAPI average(LPVOID) {
 	for (int i = 0; i < n; i++) {
 		sumEl += arr[i];
-		Sleep(10);
+		Sleep(12);
 	}
 	half = sumEl / n;
 	EnterCriticalSection(&cs);
@@ -83,5 +83,11 @@ int main() {
 
 	swapExtremum();
 	coutArr();
+
+	DeleteCriticalSection(&cs);
+	CloseHandle(min_max_hThread);
+	CloseHandle(average_hThread);
+	delete[] arr;
+	return 0;
 }
 
