@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Cpp_code\repos\OSlabs\OperatingSystems\5. Named Pipes\Server\Server.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Cpp_code\repos\OSlabs\OperatingSystems\5. Named Pipes\Server\Server.cpp(141,16): warning C4129: H: неизвестная escape-последовательность
+  Server.vcxproj -> C:\Cpp_code\repos\OSlabs\OperatingSystems\5. Named Pipes\x64\Debug\Server.exe
