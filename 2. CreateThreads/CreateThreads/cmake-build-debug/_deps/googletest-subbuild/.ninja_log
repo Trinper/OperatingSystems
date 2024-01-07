@@ -1,0 +1,21 @@
+# ninja log v5
+3499	3575	7263682096343209	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	c8bde96aeb76e3ad
+1	86	7263682061456228	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	62fa90cfcefce02a
+3225	3335	7263682093923218	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4addaefdb46d4b3a
+1	86	7263682061456228	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	62fa90cfcefce02a
+87	3222	7263682092793632	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	30071456ea8f441d
+87	3222	7263682092793632	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	30071456ea8f441d
+3730	3873	7263682099313630	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	2ee00dbc3b48ccc8
+3648	3730	7263682097873203	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	de16ea051dadf19b
+3225	3335	7263682093923218	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4addaefdb46d4b3a
+3336	3424	7263682094833544	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	85108b4b7ad2742e
+3336	3424	7263682094833544	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	85108b4b7ad2742e
+3424	3498	7263682095573601	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	20cb8516ddb99fcf
+3730	3873	7263682099313630	CMakeFiles/googletest-populate-complete	2ee00dbc3b48ccc8
+3424	3498	7263682095573601	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	20cb8516ddb99fcf
+3499	3575	7263682096343209	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	c8bde96aeb76e3ad
+3575	3648	7263682097083542	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d8a14cb46681f140
+3575	3648	7263682097083542	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d8a14cb46681f140
+3648	3730	7263682097873203	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	de16ea051dadf19b
+3730	3873	7263682099313630	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2ee00dbc3b48ccc8
+3730	3873	7263682099313630	C:/Cpp_code/OS_NeDlyaLohov2/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	2ee00dbc3b48ccc8
